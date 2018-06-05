@@ -1,0 +1,6 @@
+C:/LocalFiles/a3-handout/cmake-build-debug/CMakeFiles/BankDatalog-obj.dir
+C:/LocalFiles/a3-handout/cmake-build-debug/CMakeFiles/Customer-obj.dir
+C:/LocalFiles/a3-handout/cmake-build-debug/CMakeFiles/Transaction-obj.dir
+C:/LocalFiles/a3-handout/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/LocalFiles/a3-handout/cmake-build-debug/CMakeFiles/A3.dir
+C:/LocalFiles/a3-handout/cmake-build-debug/CMakeFiles/edit_cache.dir
